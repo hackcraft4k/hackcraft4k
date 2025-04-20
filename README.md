@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hackcraft4k
+- 👋 Hi, I’m Ejay
 - 👀 I’m interested in solving real world problems.
 - 🌱 I’m currently learning cybersecurity.
 - 💞️ I’m looking to collaborate to enhance my threat detection and prevention skills
